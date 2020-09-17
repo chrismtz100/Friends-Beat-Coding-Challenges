@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\bin\Debug\MaximumSubarray.exe.config
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\bin\Debug\MaximumSubarray.exe
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\bin\Debug\MaximumSubarray.pdb
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\obj\Debug\MaximumSubarray.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\obj\Debug\MaximumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\obj\Debug\MaximumSubarray.exe
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\MaximumSubarray\obj\Debug\MaximumSubarray.pdb
