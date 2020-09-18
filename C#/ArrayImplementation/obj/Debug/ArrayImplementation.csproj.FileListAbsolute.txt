@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\bin\Debug\ArrayImplementation.exe.config
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\bin\Debug\ArrayImplementation.exe
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\bin\Debug\ArrayImplementation.pdb
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\obj\Debug\ArrayImplementation.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\obj\Debug\ArrayImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\obj\Debug\ArrayImplementation.exe
+C:\Users\Christian\Desktop\Master the Coding Interview - Data Structures + Algorithms\ArrayImplementation\obj\Debug\ArrayImplementation.pdb
