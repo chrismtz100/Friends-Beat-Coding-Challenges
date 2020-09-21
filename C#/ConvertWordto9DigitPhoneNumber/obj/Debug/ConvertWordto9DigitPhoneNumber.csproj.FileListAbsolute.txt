@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\bin\Debug\ConvertWordto9DigitPhoneNumber.exe.config
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\bin\Debug\ConvertWordto9DigitPhoneNumber.exe
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\bin\Debug\ConvertWordto9DigitPhoneNumber.pdb
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\obj\Debug\ConvertWordto9DigitPhoneNumber.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\obj\Debug\ConvertWordto9DigitPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\obj\Debug\ConvertWordto9DigitPhoneNumber.exe
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\ConvertWordto9DigitPhoneNumber\obj\Debug\ConvertWordto9DigitPhoneNumber.pdb
