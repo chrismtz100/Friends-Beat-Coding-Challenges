@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\bin\Debug\Classes-Person-Practice.exe.config
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\bin\Debug\Classes-Person-Practice.exe
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\bin\Debug\Classes-Person-Practice.pdb
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\obj\Debug\Classes-Person-Practice.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\obj\Debug\Classes-Person-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\obj\Debug\Classes-Person-Practice.exe
+C:\Users\Christian\Desktop\GitHub\Public\Friends Beating Coding Challenges\C#\Classes-Person-Practice\obj\Debug\Classes-Person-Practice.pdb
