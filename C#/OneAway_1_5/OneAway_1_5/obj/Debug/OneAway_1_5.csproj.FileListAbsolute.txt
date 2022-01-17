@@ -1,0 +1,7 @@
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\bin\Debug\OneAway_1_5.exe.config
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\bin\Debug\OneAway_1_5.exe
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\bin\Debug\OneAway_1_5.pdb
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\obj\Debug\OneAway_1_5.csprojAssemblyReference.cache
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\obj\Debug\OneAway_1_5.csproj.CoreCompileInputs.cache
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\obj\Debug\OneAway_1_5.exe
+C:\Users\Squishie\Documents\GitHub\Friends-Beating-Coding-Challenges\C#\OneAway_1_5\OneAway_1_5\obj\Debug\OneAway_1_5.pdb
